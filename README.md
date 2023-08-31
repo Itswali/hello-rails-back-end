@@ -31,7 +31,7 @@
 **Hello Rails-React** is a web app created as an exercise to integrate Rails project with React frontend, in separate repositories.
 
 ## Front-end Repository
-[React front end](https://github.com/Itswali/hello-rails-front-end.git)
+[React front end]([https://github.com/Itswali/hello-rails-front-end.git](https://github.com/Itswali/hello-rails-front-end/tree/final))
 
 ## 🛠 Built With <a name="built-with"></a>
 
